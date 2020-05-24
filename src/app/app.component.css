@@ -1,0 +1,13 @@
+header{
+    background-color:#3498db;
+    padding:30px;
+    margin-bottom: 20px;
+    text-align:center;
+    font-size:30px;
+    color:#f1c40f;
+}
+.main.container {
+    max-width: 960px;
+    min-width: 600px;
+    margin: auto;
+}
